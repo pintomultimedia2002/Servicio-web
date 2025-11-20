@@ -1,7 +1,18 @@
 # Sistema de Gestión de Documentos y Laboratorios (UMNG)
 
+[![Read in English](https://img.shields.io/badge/Read_in-English-blue?style=for-the-badge&logo=none)](README.en.md)
+
 ![Estado del Proyecto](https://img.shields.io/badge/Estado-Prototipo_Funcional-orange)
 ![Tecnologías](https://img.shields.io/badge/Stack-HTML_CSS_JS_PHP-blue)
+
+> **⚠️ ADVERTENCIA: Estado del Servidor**
+> Actualmente, el servidor backend (PHP/MySQL) se encuentra **inhabilitado**. Por esta razón, las funciones de _inicio de sesión_, _registro_ y _envío de datos_ no están operativas en la demostración en vivo. El sitio puede visualizarse en modo "solo frontend" para apreciar la interfaz, la maquetación y la validación de formularios.
+
+---
+
+### 🌐 [Visitar Sitio Web Desplegado](INSERTAR_TU_LINK_AQUI)
+
+---
 
 Aplicación web desarrollada como proyecto final para la asignatura de **Tecnologías de Internet (2023-1)**. Este sistema simula un servicio web para la autenticación de alumnos y profesores, facilitando la gestión de peticiones de acceso a laboratorios y la revisión de documentación administrativa en la **Universidad Militar Nueva Granada**.
 
@@ -70,7 +81,7 @@ Para ejecutar este proyecto en un entorno local:
 
 ## 📸 Capturas de Pantalla
 
-![login-screen](./imagenes/login.png)
+![1763658642900](./imagenes/login.png)
 
 ## ✒️ Autores
 

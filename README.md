@@ -70,7 +70,7 @@ Para ejecutar este proyecto en un entorno local:
 
 ## 📸 Capturas de Pantalla
 
-![1763658642900](img/1763658642900.png)
+![login-screen](./imagenes/login.png)
 
 ## ✒️ Autores
 
